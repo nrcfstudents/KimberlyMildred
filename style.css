@@ -1,0 +1,39 @@
+body{
+	color: lightblue;
+	font-family: Arial;
+}
+
+p{
+	text-align:left;
+}
+
+h1{
+	text-align: center;
+	color: purple;
+}
+.first{
+	text-align:left;
+	color: magenta;
+}
+h2{
+	color: yellow;
+}
+h3{
+	text-align: center;
+	color: aquamarine;
+}
+h4{
+	color: olive;
+}
+.second{
+	color: ocean;
+}
+.third{
+	color: mediumspringgreen;
+}
+.fourth{
+	color: lime;
+}
+
+
+
