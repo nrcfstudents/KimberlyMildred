@@ -1,7 +1,8 @@
 body{
 	color: lightblue;
 	font-family: Arial;
-	background-color: mediumaquamarine;
+	background:#15FAFC;
+	padding: 20PX;
 }
 
 p{
@@ -67,3 +68,40 @@ nav{
 .prince{
 	color: royalpurple;
 }
+
+
+
+.project{background: lightpink;
+display: flex;
+gap: 15 px
+padding 15px }
+.project
+h2{
+	color: lime;
+	margin: bottom 8 px;
+
+}
+.project
+p{
+	color: lightseagreen;
+   margin: bottom 10px;
+}
+   .project-content{
+   	flex: 1;
+
+   }
+.project-image
+{width: 10px
+ height:50px
+  border-radius:10px;
+}
+.project-link{
+	background-color: lime;
+	border border-radius:5px;
+	display: inline-block;
+}
+footer{
+	font-size: 14px;
+}
+
+
